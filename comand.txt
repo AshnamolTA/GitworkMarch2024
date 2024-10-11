@@ -9,3 +9,5 @@ git status   [to check untracked files]
 git add -a   [to add all untracked files to staging area]
 
 git commit -m "commit message"   [to moved staged files to local repository]
+
+git push   [IR=>RR]
